@@ -26,7 +26,6 @@ void convertToBase(int x)
 int main()
 {
     int n;
-    cout<<"enter num"<<endl;
     cin>>n;
 
     if(n==0)
