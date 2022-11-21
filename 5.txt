@@ -1,0 +1,9 @@
+Internet webpages are gathered and stored in files by web crawling.
+REQUIREMENTS:
+1.Visit the URL to read and save the website.
+2.Extract the URLs from these web pages.
+3.Add the newly discovered URLs to the list of previously visited URLs.
+4.Continue the procedure
+
+
+After fetching the URLs , the HTML parser parses HTML pages and examines the information of the page
